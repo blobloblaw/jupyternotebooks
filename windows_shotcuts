@@ -1,0 +1,35 @@
+The following is a working summary of useful keyboard shortcuts for Jupyter Notebooks on Windows OS
+This list was taken from Ventsislav Yordanov's Medium page, "Jupyter Notebook Shortcuts", 
+which you can visit at this link:
+https://towardsdatascience.com/jypyter-notebook-shortcuts-bf0101a98330
+
+
+
+shift + enter     run selected cell then select cell below
+ctrl + enter      run selected cells only
+alt + enter       run selected cell, insert new cell below
+ctl + s           save and checkpoint
+
+
+COMMAND MODE (press esc to activate)
+enter             takes you into edit mode
+h                 show all shortcuts
+a                 insert cell above
+b                 insert cell below
+x                 cut selected cells
+c                 copy selected cells
+v                 paste cells below
+shift + v         paste cells above
+d + d             delete selected cells
+z                 undo cell deletion
+y                 change cell type to code
+m                 change cell type to markdown
+p                 open command palette
+Up                select cell above
+Down              select cell below
+Shift + space     scroll up
+space             scroll down
+
+
+EDIT MODE
+
